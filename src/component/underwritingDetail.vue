@@ -648,8 +648,8 @@ export default {
   methods: {
   	openPhone: function(){
   		var url = $(".cph").attr('src');
-  		var w=window.open(url,'Image','resizable=1,height=800,width=600');
-  		w.document.write('<img width="600" src="'+url+'"">');
+  		var w=window.open(url,'Image','resizable=1,height=640,width=320');
+  		w.document.write('<img class="popup-photo" src="'+url+'"">');
   	},
   	changePhone:function(url){
   		$(".cph").attr('src',url);
