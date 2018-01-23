@@ -13,7 +13,8 @@
 		                  <th>Employee Name</th>
 		                  <th>Title</th>
 		                  <th>Admin</th>
-		                  <th>U/W</th>
+		                  <th>UW1</th>
+		                  <th>UW2</th>
 		                  <th>Collection</th>
 		                  <th>CSM</th>
 		                  <th>MIS Report</th>
