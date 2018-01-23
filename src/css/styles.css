@@ -761,3 +761,9 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+/* ------------ added by creenx 2018-01-23 1602 ----------- */
+.popup-photo
+{
+	height: 100%;
+}
