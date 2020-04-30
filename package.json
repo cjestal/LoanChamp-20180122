@@ -14,7 +14,7 @@
     "bootstrap": "^3.3.7",
     "datatables.net": "^1.10.16",
     "datatables.net-bs": "^1.10.16",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery-mockjax": "^2.2.2",
     "moment": "^2.19.2",
     "numeral": "^2.0.6",
