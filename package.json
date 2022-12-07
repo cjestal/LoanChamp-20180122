@@ -18,7 +18,7 @@
     "jquery-mockjax": "^2.2.2",
     "moment": "^2.19.2",
     "numeral": "^2.0.6",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "querystring": "^0.2.0",
     "vue": "^2.0.1",
     "vue-router": "^3.0.1"
